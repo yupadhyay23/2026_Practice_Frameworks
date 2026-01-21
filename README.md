@@ -20,7 +20,7 @@
 ### - Copy the example file:
   cp .env.example .env
   (On Windows, manually duplicate the file instead)
-### - Open the newly created .env file and add your API keys or any required environment variables.
+### - Open the newly created .env file and add your API key for gpt-4o
 ### ⚠️ Do not commit your .env file to GitHub.
 
 ## 6. Run the project:
@@ -29,6 +29,7 @@
 
 ## 7. When finished, you can deactivate the virtual environment:
 ### deactivate
+
 
 
 
