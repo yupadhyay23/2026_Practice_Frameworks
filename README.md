@@ -25,7 +25,8 @@ pip install -r requirements.txt
 
 6. Run the project:
 python main.py
-(Replace main.py with your project’s entry file if different)
+Enter 'exit' at any point to exit the program
 
 7. When finished, you can deactivate the virtual environment:
 deactivate
+
